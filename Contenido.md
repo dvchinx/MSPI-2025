@@ -3,7 +3,6 @@
 * Definiciones clave (Confidencialidad, Integridad, Disponibilidad).
 * Terminología.
 
-
 <h2>Importancia de la Seguridad de la Información</h2>
 * Relevancia operativa.
 * Importancia reputacional.
